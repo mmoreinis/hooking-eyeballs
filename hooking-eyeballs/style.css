@@ -3,6 +3,15 @@ html {
   width: 100%;
 }
 
+#blogcomments {
+  text-align:center;
+}
+
+.reply {
+  margin-left:50px;
+  padding-left:5px;
+}
+
 #blogtitle {
   padding-top:1em;
   color:firebrick;
