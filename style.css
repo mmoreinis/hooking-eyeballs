@@ -10,12 +10,18 @@ html {
 td#gall {
   width:75%;
 }
-table#gallery {
+
+table#gallery, table#2024 {
   background-color:#fff;
   border:5px solid #fff;
+  margin-bottom:50px;
 }
 
-table#gallery td {
+table#2024 td {
+ background-color:#eee;
+}
+
+table#gallery td, table#2024 td {
   width:33%;
 }
 
